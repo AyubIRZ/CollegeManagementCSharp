@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="sama_win.addMarkMaster" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAAQAAASAEABIgAACAAABCIAgIAAoAEEAAAQAAAAA=</HashCode>
+      <FileName>addMarkMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.deleteCourse" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAAAAAASAEABAgAACAAABCIAgAAAoAEAAAAQAAAAA=</HashCode>
+      <FileName>deleteCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.deleteMaster" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAAAAAASAEABCgAACAAABCIAggAAoAEAAAAQAAAAA=</HashCode>
+      <FileName>deleteMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.deleteStudent" Collapsed="true">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RCAAAAAAASAEABCgAACAAADCIAgAAAoAEAAAAQAAAAA=</HashCode>
+      <FileName>deleteStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.editCourse" Collapsed="true">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAAAAAASAEABBgAACAAABCIAgAAAoAEIAAAQAAAAA=</HashCode>
+      <FileName>editCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.editMaster" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAAAAAASAEABCgAACAAABDIAgAAAoAEAAACQAAAAA=</HashCode>
+      <FileName>editMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.editStudent" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RCAAAAAAASAEABCgAACAAQBCIAgAAAoAEAAABQAAAAA=</HashCode>
+      <FileName>editStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.education" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAgBCEMABCCCECwEEgCAACAAAAAEAIAAQEAIAA=</HashCode>
+      <FileName>education.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.master" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AyACAAAAQCAEgBBAAACBAABCAIAAAAAAEAAAAQABAAE=</HashCode>
+      <FileName>master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.newCourse" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAAABAQAACAAAACIAgYAAAAEGAAAQABAAA=</HashCode>
+      <FileName>newCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.newMaster" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASEAABCAAACAAABCIAgYAAAAEGAAAQAAAAA=</HashCode>
+      <FileName>newMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.newStudent" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAASAAABCAAACAAABCIAgYAAAAEGAAAQAABAA=</HashCode>
+      <FileName>newStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.Program" Collapsed="true">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.selectCourse" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAAAAAASAEABAwAICAAABCJBgIAAAAEEAAAQAAAAA=</HashCode>
+      <FileName>selectCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.showCourseMaster" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAAAAAAACAAAACAAgAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>showCourseMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.showListMaster" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQAAACAEABAAAACAAAACADgAAAAACAAAACAAAAA=</HashCode>
+      <FileName>showListMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.showReportStudent" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAQAACAEABAAAACAAAACABgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>showReportStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.student" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAABAAACAAABBAAACBIABCBAAAAAAAEACAASIAAAA=</HashCode>
+      <FileName>student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama.Form1" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAACAAABAQAACQAACCAAAAAAAAAAAIAQAQAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.Properties.Resources" Collapsed="true">
+    <Position X="11.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sama_win.Properties.Settings" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
